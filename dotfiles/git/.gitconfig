@@ -1,6 +1,6 @@
 [user]
 	name = David Mougeolle
-	mail = david.mougeolle@gmail.com
+	mail = david.mougeolle@moodule.net
 	email = david.mougeolle@moodule.net
 [core]
 	excludesfile = /home/corto/.gitignore
