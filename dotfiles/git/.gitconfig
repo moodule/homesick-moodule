@@ -4,3 +4,5 @@
 	email = david.mougeolle@moodule.net
 [core]
 	excludesfile = /home/corto/.gitignore
+[branch "master"]
+	mergeoptions = --no-ff
