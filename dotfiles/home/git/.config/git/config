@@ -1,6 +1,5 @@
 [user]
-	name = David Mougeolle
-	mail = moodule@protonmail.com
+	name = moodule
 	email = moodule@protonmail.com
 [core]
 	excludesfile = $HOME/.gitignore
